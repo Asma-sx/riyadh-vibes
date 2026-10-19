@@ -15,3 +15,4 @@ PHP · MySQL (mysqli) · Bootstrap · JavaScript · HTML · CSS
 2. In phpMyAdmin create a database named `login` and import `database.sql`.
 3. Check the settings in `config.php`.
 4. Open `http://localhost/RiyadhVibes/`.
+
